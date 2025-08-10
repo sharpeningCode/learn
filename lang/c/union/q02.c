@@ -20,8 +20,8 @@ void	func()
 }
 
 /* Output
-c1r1s1 cc q0
+c1r1s1% cc q0
 2.c
-c1r1s1 ./a.out
+c1r1s1% ./a.out
 5 10
-c1r1s1 */
+c1r1s1% */

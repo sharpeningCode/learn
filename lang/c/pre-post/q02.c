@@ -10,7 +10,7 @@ int	main(void)
 }
 
 /* Output
-c1r1s1 cc q02.c
-c1r1s1 ./a.out
+c1r1s1% cc q02.c
+c1r1s1% ./a.out
 233
-c1r1s1 */
+c1r1s1% */
